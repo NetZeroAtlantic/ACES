@@ -2,9 +2,7 @@
 
 Hi! Welcome to the ACES-Temoa repository. This repo contains the code behind
 the Atlantic Canada Energy System (ACES) Model, which is based off the [Temoa](https://temoacloud.com/)
-modelling suite. In fact, this repository is simply a clone of the Temoa [GitHub repository](https://github.com/TemoaProject/temoa)
-repository. This was done to allow us to make code
-additions specific to the Atlantic Canadian context that did not exist in the core Temoa code. 
+modelling suite. This brach is version 1 of ACES.  
 
 
 # Overview
