@@ -49,7 +49,7 @@ This new conda environment contains several elements, including Python 3, a
 compatible version of Pyomo, matplotlib, numpy, scipy, and two free solvers 
 (GLPK and CBC). A note for Windows users: the CBC solver is not available for Windows through conda. Thus, in order to install the environment properly, the last line of the 'environment.yml' file specifying 'coincbc' should be deleted.
 
-To download the Temoa source code, either clone the repository or download from GitHub 
+To download the ACES source code, either clone the repository or download from GitHub 
 as a zip file.
 
 ## Running ACES
@@ -94,7 +94,7 @@ For general help use --help:
 ```$ python  temoa_model/  --help```
 
 
-More information on ACES model can be found on the official NetAtlanticZero webpage 
+More information on ACES model can be found on the official NetAtlanticZero webpage. 
 (https://netzeroatlantic.ca/acesmodel/about)
 
 
