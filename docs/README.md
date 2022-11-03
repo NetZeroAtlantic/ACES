@@ -16,8 +16,8 @@ Contains the core Temoa model code.
 2. `data_files/`
 Contains SQLite input data (DAT) files for ACES. 
 
-3. 'data_documentation/'
-Contians documentation for database in 'data_files/'
+3. `data_documentation/`
+Contians documentation for database in `data_files/`
 
 4. `data_processing/`
 Contains several modules to make output graphs, network diagrams, and 
